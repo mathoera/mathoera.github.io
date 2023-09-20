@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Sep 20 10:33:42 CEST 2023","Wed Sep 20 10:34:06 CEST 2023","24366","","","","","","PROS-MM003 - Open the BPA2-Prospect map services catalog page",""
+"passed","Wed Sep 20 10:33:28 CEST 2023","Wed Sep 20 10:33:42 CEST 2023","14248","","","","","","PROS-MM002 - Open a new mail to SSW-Support",""
+"passed","Wed Sep 20 10:32:58 CEST 2023","Wed Sep 20 10:33:11 CEST 2023","13177","","","","","","testBasin_Edit",""
+"passed","Wed Sep 20 10:33:12 CEST 2023","Wed Sep 20 10:33:27 CEST 2023","15709","","","","","","PROS-MM001 - Open the BPA2-Prospect main menu",""
+"passed","Wed Sep 20 10:34:07 CEST 2023","Wed Sep 20 10:34:19 CEST 2023","12013","","","","","","PROS-PR002 - View the available units of measurements",""
